@@ -1,0 +1,9 @@
+D:\study\SourceTree\BetaCat1-ui-0155c39e05ca\UnityEditor.UI\bin\Debug\UnityEditor.UI.dll
+D:\study\SourceTree\BetaCat1-ui-0155c39e05ca\UnityEditor.UI\bin\Debug\UnityEditor.UI.pdb
+D:\study\SourceTree\BetaCat1-ui-0155c39e05ca\UnityEditor.UI\bin\Debug\UnityEditor.dll
+D:\study\SourceTree\BetaCat1-ui-0155c39e05ca\UnityEditor.UI\bin\Debug\UnityEngine.dll
+D:\study\SourceTree\BetaCat1-ui-0155c39e05ca\UnityEditor.UI\bin\Debug\UnityEngine.UI.dll
+D:\study\SourceTree\BetaCat1-ui-0155c39e05ca\UnityEditor.UI\bin\Debug\UnityEngine.UI.pdb
+D:\study\SourceTree\BetaCat1-ui-0155c39e05ca\UnityEditor.UI\obj\Debug\UnityEditor.UI.csprojResolveAssemblyReference.cache
+D:\study\SourceTree\BetaCat1-ui-0155c39e05ca\UnityEditor.UI\obj\Debug\UnityEditor.UI.dll
+D:\study\SourceTree\BetaCat1-ui-0155c39e05ca\UnityEditor.UI\obj\Debug\UnityEditor.UI.pdb

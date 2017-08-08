@@ -1,0 +1,6 @@
+D:\study\SourceTree\BetaCat1-ui-0155c39e05ca\UnityEngine.UI\bin\Release\UnityEngine.UI.dll
+D:\study\SourceTree\BetaCat1-ui-0155c39e05ca\UnityEngine.UI\bin\Release\UnityEngine.UI.pdb
+D:\study\SourceTree\BetaCat1-ui-0155c39e05ca\UnityEngine.UI\bin\Release\UnityEditor.dll
+D:\study\SourceTree\BetaCat1-ui-0155c39e05ca\UnityEngine.UI\bin\Release\UnityEngine.dll
+D:\study\SourceTree\BetaCat1-ui-0155c39e05ca\UnityEngine.UI\obj\Release\UnityEngine.UI.dll
+D:\study\SourceTree\BetaCat1-ui-0155c39e05ca\UnityEngine.UI\obj\Release\UnityEngine.UI.pdb
